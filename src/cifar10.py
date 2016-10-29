@@ -1,6 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+"""
+This code is from https://github.com/DaikiShimada/masalachai. Thanks DaikiShimada.
+"""
+
 import numpy as np
 import six  
 from six.moves.urllib import request
